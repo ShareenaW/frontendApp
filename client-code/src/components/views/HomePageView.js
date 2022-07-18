@@ -9,9 +9,7 @@ const HomePageView = () => {
   return (
     <div className="homeContainer" style={{position: 'relative', top: '58px', width: '100vw'}}>
       
-      <img className="homeLogo" src="https://www.scramsystems.com/blog/wp-content/uploads/cartoon-college-campus.jpg"></img>
-      <div id="welcome">Welcome</div>
-      <div id="to">To</div>
+      <img className="homeLogo" src=""></img>
       <div id="websiteTitle">Campus Management System</div>
     </div>
   );    
