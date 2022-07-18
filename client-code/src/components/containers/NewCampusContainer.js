@@ -76,7 +76,6 @@ class NewCampusContainer extends Component {
                 address: "",
                 description: "",
                 redirect: true,
-                redirectId: newCampus.id,
                 campusExists: false
             });
         }
